@@ -11,6 +11,6 @@ namespace FilmesAPI.Data
                 
         }
 
-        public DbSet<Filme> filmes { get; set; }
+        public DbSet<Filme> Filmes { get; set; }
     }
 }
